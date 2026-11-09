@@ -1,0 +1,85 @@
+## Business Insights and Recommedations
+##DUKA SMART ELECTRONICS
+
+**Product Perfomance  Perfomance *
+
+Mobile Phones is the strongest generating the highest revenue of Ksh 6,942,060.65 and the highest profit of Ksh 728,760.65 
+followed closely by computing at Ksh 6,596,221.7 with profit of Ksh 700,021.7.
+Accessories is the weakest generating a revenue of Ksh 1,077,496.1 and achieved a profit of Ksh 456,746.1
+ rpresenting an approximate profit margin of 42.4%.
+
+**The results reveal that high revenue does not necessarily translate into the highest profitability.
+ Although Mobile Phones lead in total revenue and profit, Accessories deliver a much higher profit margin.
+This suggests that Accessories contribute efficiently to profitability despite their smaller sales volume.
+
+**Business Recommendations
+
+-Maintain sufficient inventory of Mobile Phones and Computing because they are the leading contributors to overall revenue and profit.
+-Consider expanding the Accessories product range and promoting complementary purchases to increase sales.
+-Review pricing, supplier costs and discount strategies across product categories to protect profit margins.
+-Monitor both revenue and profit margins when making inventory and marketing investment decisions.
+
+**Sales Perfomance by city**
+
+**Nairobi recorded the highest sales revenue at Ksh 9,581,980.35, significantly outperforming all other cities.
+ Mombasa ranked second with Ksh 3,161,889.60, while Machakos recorded the lowest revenue at Ksh 745,099.90.
+ Nairobi's revenue was approximately three times that of Mombasa, highlighting a considerable difference
+ in sales performance across locations.
+
+ **The results indicate that revenue is heavily concentrated in Nairobi, suggesting that it is the business's strongest market. 
+ However, the substantial revenue differences across cities may expose the business to geographical market concentration risks. 
+ Lower-performing cities may also represent untapped growth opportunities.
+
+ **Recommendations
+- Maintain strong inventory availability and customer service in Nairobi to protect its leading market position.
+-Investigate the factors driving Nairobi's strong performance and identify strategies that can be replicated in other cities.
+-Develop targeted marketing campaigns and promotional offers in lower-performing markets, particularly Machakos.
+-Evaluate customer demand, product availability and purchasing patterns across cities before expanding operational investment.
+
+**Revenue Contribution by Customer Segment**
+
+**VIP customers generate the highest revenue at Ksh 253,251.88, followed by Corporate customers at Ksh 197,958.71.
+ Retail customers contributed the lowest revenue at Ksh 163,575.21. 
+ This shows that VIP customers are the most valuable segment in terms of total revenue.
+
+ **The results suggest that VIP customers make a significant contribution to the company's revenue. 
+ Understanding the purchasing behaviour of each segment can help management develop better customer retention and marketing strategies.
+
+ **Recommendations
+ -Strengthen VIP customer retention through loyalty rewards and exclusive offers.
+ -Offer Corporate customers tailored product packages and volume discounts.
+ -Monitor revenue contribution by segment to identify changes in customer purchasing behaviour.
+
+ **Customer Retention**
+
+ **47 customers latest completed purchase was more than 90 days before the latest order date. 
+ Agnes Kimani had the longest inactivity period at 625 days, followed by Purity Mwangi at 481 days and Alex Chebet at 479 days.
+
+ **The business may be experiencing customer retention challenges. 
+ If inactive customers do not return, the business could lose repeat sales and future revenue.
+
+ **Recommendations
+ -Reach out to inactive customers to understand their reasons for not returning.
+-Offer special discounts to encourage repeat purchases.
+-Introduce loyalty rewards to retain existing customers.
+
+**Monthly Revenue Growth and Seasonality**
+ August 2026 recorded the highest revenue of at Ksh 2,350,619, while January 2026 had the lowest at Ksh 343,982. 
+ December 2025 also recorded strong revenue of Ksh 2,180,704.
+
+ **The customer demand and sales performance vary across months. 
+ Understanding these patterns can help the business plan stock levels, manage cash flow and prepare for periods of high or low demand.
+
+ **Recommendations
+ -Increase stock levels ahead of months with historically high sales.
+ -Investigate the reasons behind the sharp revenue drops, particularly in January 2026.
+
+ **Customer Value**
+92 customers are Low Value, 31 are Medium Value, and 27 are High Value. 
+The thresholds were based on spending: below KES 100,000, KES 100,000–299,999, and KES 300,000 and above.
+
+*Most customers have relatively low spending, creating an opportunity to increase repeat purchases and customer value.
+
+*Recommendations
+-Reward High Value customers to encourage loyalty.
+-Offer targeted promotions to Low Value customers.
